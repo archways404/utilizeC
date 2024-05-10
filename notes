@@ -1,0 +1,12 @@
+gcc -o test test.c
+./test
+
+printf()
+
+%d or %i -> integer
+%f       -> float
+%c       -> character
+%s       -> string
+
+scanf()
+scanf("%d", &a); -> integer
